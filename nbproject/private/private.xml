@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BloggingWebsite/web/login.jsp</file>
+            <file>file:/D:/BloggingWebsite/src/java/com/database/ConnectionProvider.java</file>
+            <file>file:/D:/BloggingWebsite/src/java/com/dao/UserDao.java</file>
+            <file>file:/D:/BloggingWebsite/web/register.jsp</file>
+            <file>file:/D:/BloggingWebsite/web/css/style_01.css</file>
+            <file>file:/D:/BloggingWebsite/web/allContent/footer.jsp</file>
+            <file>file:/D:/BloggingWebsite/web/index.jsp</file>
+            <file>file:/D:/BloggingWebsite/web/allContent/allcss.jsp</file>
+            <file>file:/D:/BloggingWebsite/web/allContent/cards.jsp</file>
+            <file>file:/D:/BloggingWebsite/src/java/com/user/UserDetails.java</file>
+            <file>file:/D:/BloggingWebsite/web/showNotes.jsp</file>
+            <file>file:/D:/BloggingWebsite/web/registerDetails.jsp</file>
+            <file>file:/D:/BloggingWebsite/src/java/com/servlet/UserServlet.java</file>
+            <file>file:/D:/BloggingWebsite/web/WEB-INF/web.xml</file>
+            <file>file:/D:/BloggingWebsite/web/allContent/navBar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
